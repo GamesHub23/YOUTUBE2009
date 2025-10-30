@@ -1,4 +1,4 @@
-# yt2009
+# yt2009 repository clone: https://gameshub23.github.io/YOUTUBE2009/
 a fairly accurate 2009 youtube frontend with account features.
 
 <img src="doc-imgs/ie6-ss.png" width="400">
